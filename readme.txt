@@ -4,3 +4,4 @@ Git is free software distributed under the GPL.
 DEV
 end edit
 --no-ff mode merge
+git stash test
