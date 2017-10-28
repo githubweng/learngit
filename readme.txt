@@ -5,3 +5,4 @@ DEV
 end edit
 --no-ff mode merge
 git stash test
+git cooperation test
